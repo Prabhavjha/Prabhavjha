@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabhavjha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Prolog
+- 🌱 I’m currently learning Machine Learning in python
 - 💞️ I’m looking to collaborate on some projects
 - 📫 reach me at prabhavkumarjha@gmail.com
 
