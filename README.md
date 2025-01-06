@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prabhavjha
-- 👀 I’m interested in coding
-- 🌱 I’m currently working on Machine Learning.
-- 💞️ I’m looking to collaborate on some projects
-- 📫 reach me at prabhavkumarjha@gmail.com
+-  Hi, I’m @Prabhavjha
+-  I’m interested in coding
+-  I’m currently working on Machine Learning.
+-  I’m looking to collaborate on some projects
+-  reach me at prabhavkumarjha@gmail.com
 
 <!---
 Prabhavjha/Prabhavjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
